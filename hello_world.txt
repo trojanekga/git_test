@@ -1,2 +1,4 @@
 Full test of new Git repo
 VSCode commit message edit test
+
+More code to test
